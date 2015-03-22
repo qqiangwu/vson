@@ -1,9 +1,11 @@
 {
-	"name": "vson",
-	"description": "Simply an extraction of vibe.data.json for convenience",
-	"copyright": "Copyright © 2015, qqiangwu",
-	"authors": ["qqiangwu"],
+    "name": "vson",
+    "description": "Simply an extraction of vibe.data.json for convenience",
+    "copyright": "Copyright © 2015, qqiangwu",
+    "authors": ["qqiangwu"],
     "license": "MIT",
-	"dependencies": {
-	}
+    "dependencies": {
+        "vmeta": "~>0.0.1",
+        "vutil": "~>0.0.2"
+    }
 }
